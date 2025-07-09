@@ -17,3 +17,6 @@
 - 🎯 Supervised & Unsupervised Learning, Model Evaluation
 - 🔄 End-to-End ML Pipelines, Data Preprocessing
 - 📊 Data visualization & charting
+
+### Algorithms
+[![Soved](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)

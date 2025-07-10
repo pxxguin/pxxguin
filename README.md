@@ -19,4 +19,4 @@
 - 📊 Data visualization & charting
 
 ### Algorithms(C++)
-[![Soved](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld)
+

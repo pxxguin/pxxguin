@@ -18,5 +18,5 @@
 - 🔄 End-to-End ML Pipelines, Data Preprocessing
 - 📊 Data visualization & charting
 
-### Algorithms
+### Algorithms(C++)
 [![Soved](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)

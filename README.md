@@ -8,6 +8,7 @@
   - [ThreatLens](https://github.com/pxxguin/Development_of_an_Anomaly_Detection_System) - Traffic Overload Protection via Real-Time Malicious IP Detection and Blocking
   - [Autofic](https://github.com/AutoFiC) - A system that automatically detects security vulnerabilities in code, applies patches, and generates PR for seamless integration
 - 🎓 Undergraduate student majoring in Computer Science, specializing in Artificial Intelligence
+  - University of Utah — Salt Lake City, UT, USA Exchange Student, Computer Engineering (Aug 2025 – Dec 2025)
 - 👾 Programming is something I truly enjoy, and I'm always excited to create something new
 
 ### Favorite techniques

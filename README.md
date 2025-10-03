@@ -18,6 +18,3 @@
 - 📖 Interested in Large Language Model optimization, with a focus on efficient fine-tuning (LoRA, PEFT) and hallucination reduction through retrieval-augmented generation.
 - 🌍 Passionate about multilingual NLP, especially in low-resource settings and cross-lingual transfer.
 - 🔍 Exploring explainability in NLP models, leveraging XAI techniques to make model decisions more transparent and trustworthy.
-
-### Algorithms(C++)
-![solved!!!!!](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)

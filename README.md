@@ -1,5 +1,3 @@
-[![X (formerly Twitter) Follow](https://img.shields.io/badge/Follow%20%40pxxxguin-000000?style=flat&logo=x&logoColor=white)](https://x.com/pxxxguin?s=11)
-
 ### Self-introduction
 
 - 🎨 I'm a passionate Machine Learning Engineer with a strong background in data statistics.
@@ -18,6 +16,3 @@
 - 📖 Interested in Large Language Model optimization, with a focus on efficient fine-tuning (LoRA, PEFT) and hallucination reduction through retrieval-augmented generation.
 - 🌍 Passionate about multilingual NLP, especially in low-resource settings and cross-lingual transfer.
 - 🔍 Exploring explainability in NLP models, leveraging XAI techniques to make model decisions more transparent and trustworthy.
-
-### Algorithms
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)

@@ -9,6 +9,10 @@
   - [🧑🏻‍💻 Blog](https://pxxguin.github.io) - This is the technical learning log of an aspiring developer committed to reading 100 books and 200 papers before graduation, sharing the journey to help others in the field.
 - 🎓 Undergraduate student majoring in Computer Science, specializing in Artificial Intelligence
   - University of Utah — Salt Lake City, UT, USA Exchange Student, Computer Engineering (Aug 2025 – Dec 2025)
+    - 📖 `CS 6350` Natural Language Processing
+    - 🤖 `CS 3960` Introduction to Machine Learning
+    - 🧠 `CS 6353` Deep Learning
+
 - 👾 Programming is something I truly enjoy, and I'm always excited to create something new
 
 

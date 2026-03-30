@@ -3,6 +3,7 @@
 * **Target Companies:** Baedal Minjok / Samsung DS
 
 ### 📜 Certifications
+* **GPA:** 4.42/4.5
 * **ADsP** (Advanced Data Analytics Semi-Professional)
 * **SQLD** (SQL Developer)
 * **Linux Master** (Grade 2)

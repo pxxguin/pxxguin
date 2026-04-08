@@ -4,6 +4,8 @@
 
 ### 📜 Certifications
 * **GPA:** 4.42/4.5
+* **TOEIC:** 920(26/3/29)
+* **OPIc:** AL(Advanced Low)
 * **ADsP** (Advanced Data Analytics Semi-Professional)
 * **SQLD** (SQL Developer)
 * **Linux Master** (Grade 2)

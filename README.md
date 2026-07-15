@@ -5,7 +5,7 @@
 * **AI Research:** Transformer model inference speed optimization
 * **MLOps:** Apache Airflow
 
-## 🎓 Major Activities
+### 🎓 Major Activities
 - **White Hat School** — 3rd Cohort
 - **Best of the Best** — 15th Cohort
 

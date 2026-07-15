@@ -1,4 +1,15 @@
-### 🎯 Career Objective & Targets
+### 🛠 Tech Stack
+* **Backend:** Spring, FastAPI, Kafka, Redis
+* **Cloud/Infra:** AWS, Azure, Terraform
+* **DevOps/CI-CD:** Docker, Kubernetes, Github Actions
+* **AI Research:** Transformer model inference speed optimization
+* **MLOps:** Apache Airflow
+
+## 🎓 Major Activities
+- **White Hat School** — 3rd Cohort
+- **Best of the Best** — 15th Cohort
+
+### 🎯 Career Objective
 * **Target Roles:** Backend Engineer -> MLOps Engineer / SW Development
 * **Target Companies:** Baedal Minjok / Samsung DS
 
@@ -15,7 +26,7 @@
 * **Engineer Information Security** (Target 3)
 
 ### 🚀 Projects
-* **[🔍 Autofic](https://autofic.github.io)**
+* **[🔍 Autofic(with WHS)](https://autofic.github.io)**
     * Automated security MLOps pipeline for vulnerability detection and patching.
     * **Key Impact:** Streamlined CI/CD security integration with automated PR generation.
     * **Result:** [📑 Paper](https://drive.google.com/file/d/1R3YJsRcVCDjqAKCcpQp3u2JyK1ouGf0w6/view?usp=sharing) & [📊 Poster](https://drive.google.com/file/d/1U4YUryzdfU9vX3qAr38-P5lOKxLzOs_h6/view?usp=sharing) & [🥇 Award](https://drive.google.com/file/d/1Pesc-udS-5RLdiTHsQlt03JyRTjgB-V24/view?usp=sharing)

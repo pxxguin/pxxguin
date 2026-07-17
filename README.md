@@ -40,7 +40,3 @@
 * **[ Hong's Dev](https://pxxguin.github.io/)**
     * A technical log documenting in-depth research on MLOps, data statistics, and system architecture.
     * **Key Impact:** Knowledge synthesis focused on reviewing 100 technical books and 200 research papers to ensure engineering rigor.
- 
-
-### 🧑‍💻 Algorithms
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)](https://solved.ac/changetheworld/)

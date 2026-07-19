@@ -42,4 +42,4 @@
     * **Key Impact:** Knowledge synthesis focused on reviewing 100 technical books and 200 research papers to ensure engineering rigor.
 
 ### </> PS(C++)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changetheworld)
